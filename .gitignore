@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# clone used to push game to super-mister-psicotecnico (separate repo)
+/juego-deploy
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
